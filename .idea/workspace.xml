@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70877689-82d3-454c-8079-e17d48fb6d81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/josephfrancis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Volcanoes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Map1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Map1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pipfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/Pipfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.py" beforeDir="false" afterPath="$PROJECT_DIR$/map.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +62,8 @@
       <updated>1566201111782</updated>
       <workItem from="1566201113665" duration="801000" />
       <workItem from="1566255149178" duration="116000" />
-      <workItem from="1566255299175" duration="1872000" />
+      <workItem from="1566255299175" duration="2195000" />
+      <workItem from="1566260168486" duration="2116000" />
     </task>
     <servers />
   </component>
