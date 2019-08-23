@@ -24,6 +24,7 @@ for (lat, lng, elv) in zip(lat, lng, elev):
     fg.add_child(
         folium.Marker(location=[lat, lng], popup=elv, icon=folium.Icon(color=color_producer(elv))))
 
+fg.add_child(folium.GeoJson(data=open("world.json", "r", encoding="utf-8-sig").read(), style_function=lambda x: {"fillColor": "blue" if x["properties"]["POP2005"] < 10000000 else "orange" if 10000000 <= x["properties"]["POP2005"] < 20000000 else "red"}))
 map_val.add_child(fg)
 
 map_val.save("Map1.html")
